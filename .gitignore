@@ -1,0 +1,12 @@
+# Données utilisateurs (données personnelles)
+users.json
+
+# Decks (contenu généré, potentiellement privé)
+data/*
+!data/.gitkeep
+
+# Éditeur / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
